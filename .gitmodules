@@ -1,0 +1,3 @@
+[submodule "nvim"]
+	path = my-nvim-config
+	url = git@github.com:kuromika/my-nvim-config.git
